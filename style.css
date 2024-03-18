@@ -36,10 +36,10 @@
   .answer {
     color: black;
     text-transform: uppercase;
-    margin: 0;
     position: absolute;
     top: 38%;
-    left: 22%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-family: 'Anton';
     font-size: 50px;
     text-transform: uppercase;
